@@ -1,0 +1,73 @@
+
+body{
+  margin: 0;
+
+  text-align: center;
+  font-family:"Merriweather" , serif;
+
+}
+.skill-row{
+
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2
+
+}
+
+hr{
+  border-style: none;
+  border-color: black;
+
+}
+h1{
+  margin-top: 50px;
+  margin-right: 0;
+  margin-bottom: 0;
+  padding-top: 50px;
+  font-family: "Sacramento" , sans-serif;
+  font-size: 90px;
+  color:#9d65c9;
+}
+h2{
+  font-size: 20px;
+  margin-top: 0;
+  color:#241663;
+
+
+}
+h3{
+  color:#241663;
+}
+
+.new{
+  width:20%;
+  height:20%;
+float:left;
+margin-right: 30px;
+}
+
+.top{
+  background-color: #deddfa;
+  position: relative;
+  padding-top: 50px;
+}
+.eye{  width:20%;
+  height:20%;
+  float:right;
+margin-left: 30px;
+}
+.cloud{
+  position: absolute;
+
+}
+
+.cloudf{
+  position:absolute;
+  right:400px;
+}
+.pp{
+  width:20%;
+  height:20%;
+  padding-top: 20px;
+}
